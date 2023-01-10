@@ -53,14 +53,16 @@ sudo ufw enable
 
 ## Linux firewall w/rkhunter
 
-```wget [rkhunter](https://sourceforge.net/projects/rkhunter/files/rkhunter/1.4.6/rkhunter-1.4.6.tar.gz/download)```
+```wget [rkhunter](https://sourceforge.net/projects/rkhunter/files/rkhunter/1.4.6/rkhunter-1.4.6.tar.gz/download)
+```
 
 ```
 tar xzvf rkhunter*
 cd rkhunter*
 ```
 
-```sudo ./installer.sh --layout /usr --install``` 
+```sudo ./installer.sh --layout /usr --install
+``` 
 
 ```
 apt-get update
