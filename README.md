@@ -7,18 +7,20 @@ Avant de commencer, il serait plus simple d'éditer le serveur ubuntu via ssh (p
 pour rendre cela possible, il vous suffit de :
 
 1. connaître votre adresse ip `(ifconfig)`
-2. installer le client open-ssh ('sudo apt-get install openssh-client').
-3. ouvrir le port ssh ('sudo ufw allow ssh')
+2. installer le client open-ssh `(sudo apt-get install openssh-client)`
+3. ouvrir le port ssh `(sudo ufw allow ssh)`
 
 
 ## Linux firewall w/Iptables
+
+Trouver une section dans votre répertoire *root* pour écrire ces deux scripts bash :
 
 [flush](https://github.com/Pyncro/Ubuntu-server-secure/blob/main/firewall%20scripts/iptable_flush.rtf "flush.sh")
 
 
 [iptables](https://github.com/Pyncro/Ubuntu-server-secure/blob/main/firewall%20scripts/iptable_rules.rtf "iptables.sh")
 
-
+donnez-leur les droits d'administration en utilisant `(chmod +x {nom du fichier})` et puis exécutez flush.sh puis iptables.sh en utilisant `(bash) ou `(./)`
 
 
 
