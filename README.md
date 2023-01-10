@@ -53,8 +53,21 @@ sudo ufw enable
 
 ## Linux firewall w/rkhunter
 
-wget rkhunter 
+```wget [rkhunter](https://sourceforge.net/projects/rkhunter/files/rkhunter/1.4.6/rkhunter-1.4.6.tar.gz/download)```
 
+```
+tar xzvf rkhunter*
+cd rkhunter*
+```
+
+```sudo ./installer.sh --layout /usr --install``` 
+
+```
+apt-get update
 apt-get install ruby-full
-
 apt-get install binutils libreadline5 ssl-cert unhide.rb mailutils
+```
+
+### Source
+
+https://www.digitalocean.com/community/tutorials/how-to-use-rkhunter-to-guard-against-rootkits-on-an-ubuntu-vps
