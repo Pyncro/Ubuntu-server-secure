@@ -16,7 +16,7 @@ pour rendre cela possible, il vous suffit de :
 [flush](https://github.com/Pyncro/Ubuntu-server-secure/blob/main/firewall%20scripts/iptable_flush.rtf "flush.sh")
 
 
-[Named Link](http://www.google.fr/ "iptables.sh")
+[iptables](https://github.com/Pyncro/Ubuntu-server-secure/blob/main/firewall%20scripts/iptable_rules.rtf "iptables.sh")
 
 
 
