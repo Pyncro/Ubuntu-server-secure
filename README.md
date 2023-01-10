@@ -1,5 +1,14 @@
-# Ubuntu-server-install
+# Ubuntu-server-secure
 
+
+Avant de commencer, il serait plus simple d'éditer le serveur ubuntu via ssh (plus facile a copier/coller les texts).
+
+
+pour rendre cela possible, il vous suffit de :
+
+1.connaître votre adresse ip (ifconfig)
+2.installer le client open-ssh ('sudo apt-get install openssh-client').
+3.ouvrir le port ssh ('sudo ufw allow ssh')
 
 
 ## Linux firewall w/Iptables
