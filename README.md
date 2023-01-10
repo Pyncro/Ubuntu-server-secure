@@ -20,7 +20,7 @@ Trouver une section dans votre répertoire *root* pour écrire ces deux scripts 
 
 [iptables](https://github.com/Pyncro/Ubuntu-server-secure/blob/main/firewall%20scripts/iptable_rules.rtf "iptables.sh")
 
-donnez-leur les droits d'administration en utilisant `(chmod +x {nom du fichier})` et puis exécutez flush.sh puis iptables.sh en utilisant `(bash)` ou `(./)`
+donnez-leur les droits d'administration en utilisant `(chmod +x {nom du fichier})` et puis exécutez flush.sh ensuite iptables.sh en utilisant `(bash)` ou `(./)`
 
 
 
