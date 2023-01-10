@@ -6,7 +6,7 @@ Avant de commencer, il serait plus simple d'éditer le serveur ubuntu via ssh (p
 
 pour rendre cela possible, il vous suffit de :
 
-1. connaître votre adresse ip `code(ifconfig)`
+1. connaître votre adresse ip `(ifconfig)`
 2. installer le client open-ssh ('sudo apt-get install openssh-client').
 3. ouvrir le port ssh ('sudo ufw allow ssh')
 
