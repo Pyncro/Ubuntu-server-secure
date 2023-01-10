@@ -13,7 +13,7 @@ pour rendre cela possible, il vous suffit de :
 
 ## Linux firewall w/Iptables
 
-[Named Link](http://www.google.fr/](https://github.com/Pyncro/Ubuntu-server-secure/blob/main/firewall%20scripts/iptable_flush.rtf "flush.sh")
+[flush](http://www.google.fr/](https://github.com/Pyncro/Ubuntu-server-secure/blob/main/firewall%20scripts/iptable_flush.rtf "flush.sh")
 
 
 [Named Link](http://www.google.fr/ "iptables.sh")
