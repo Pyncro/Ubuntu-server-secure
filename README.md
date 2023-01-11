@@ -13,7 +13,7 @@ pour rendre cela possible, il vous suffit de :
 
 ## Linux Secured ssh login
 
-![picture alt](https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/secured%20root%20login.pdf)
+![images](https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/secured%20root%20login.pdf)
 
 
 Créer un nouveau utilisateur 
