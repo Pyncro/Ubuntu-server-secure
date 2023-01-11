@@ -13,8 +13,8 @@ iptables -A OUTPUT -o lo -j ACCEPT
 iptables -A INPUT -m conntrack --ctstate INVALID -j DROP
 
 #Allowing All incoming SSH
-sudo iptables -A OUTPUT -p tcp --dport 2255 -m conntrack --ctstate NEW,ESTABLISHED -j ACCEPT
-sudo iptables -A INPUT -p tcp --sport 2255 -m conntrack --ctstate ESTABLISHED -j ACCEPT
+sudo iptables -A OUTPUT -p tcp --dport {add your new port here} -m conntrack --ctstate NEW,ESTABLISHED -j ACCEPT
+sudo iptables -A INPUT -p tcp --sport {add your new port here} -m conntrack --ctstate ESTABLISHED -j ACCEPT
 
 #Allowing All incoming HTTP
 sudo iptables -A INPUT -p tcp --dport 80 -m conntrack --ctstate NEW,ESTABLISHED -j ACCEPT
