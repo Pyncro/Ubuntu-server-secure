@@ -82,8 +82,11 @@ apt-get install binutils libreadline5 ssl-cert unhide.rb mailutils
 ```
 
 
+## Php 7.4 library
 
+## Mariadb installation
 
+## Phpmyadmin
 
 
 ### Source
