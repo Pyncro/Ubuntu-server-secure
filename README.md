@@ -11,6 +11,13 @@ pour rendre cela possible, il vous suffit de :
 3. ouvrir le port ssh `(sudo ufw allow ssh)`
 4. ouvrir le port 22 `(sudo ufw allow 22)`
 
+## Linux Secured ssh login
+
+Créer un nouveau utilisateur 
+nano /etc/ssh/sshd_config
+Port 22 -> 2000 {choisissez un numéro à quatre chiffres}
+AllowUsers{tab}{nouveau utilisateur}
+
 ## Linux firewall w/Iptables
 
 Trouver une section dans votre répertoire *root* pour écrire ces deux scripts bash :
@@ -74,4 +81,8 @@ apt-get install binutils libreadline5 ssl-cert unhide.rb mailutils
 
 ### Source
 
+https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-ubuntu-20-04
+
 https://www.digitalocean.com/community/tutorials/how-to-use-rkhunter-to-guard-against-rootkits-on-an-ubuntu-vps
+
+
