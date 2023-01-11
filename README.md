@@ -9,7 +9,7 @@ pour rendre cela possible, il vous suffit de :
 1. connaître votre adresse ip `(ifconfig)`
 2. installer le client open-ssh `(sudo apt-get install openssh-client)`
 3. ouvrir le port ssh `(sudo ufw allow ssh)`
-
+4. ouvrir le port 22 `(sudo ufw allow 22)`
 
 ## Linux firewall w/Iptables
 
