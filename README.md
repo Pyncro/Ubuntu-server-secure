@@ -16,6 +16,8 @@ pour rendre cela possible, il vous suffit de :
 Créer un nouveau utilisateur 
 nano /etc/ssh/sshd_config
 Port 22 -> 2000 {choisissez un numéro à quatre chiffres}
+
+PermiRootLogin no
 AllowUsers{tab}{nouveau utilisateur}
 
 ## Linux firewall w/Iptables
