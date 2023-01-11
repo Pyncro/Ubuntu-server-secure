@@ -46,6 +46,10 @@ systemctl status ufw
 ```
 
 ```
+sudo ufw enable
+```
+
+```
 ufw default allow outgoing
 ufw default deny incoming
 ```
@@ -54,10 +58,6 @@ ufw default deny incoming
 ufw allow ssh
 ufw allow 80
 ufw allow 443
-```
-
-```
-sudo ufw enable
 ```
 
 ## Linux firewall w/rkhunter
@@ -80,6 +80,11 @@ apt-get update
 apt-get install ruby-full
 apt-get install binutils libreadline5 ssl-cert unhide.rb mailutils
 ```
+
+
+
+
+
 
 ### Source
 
