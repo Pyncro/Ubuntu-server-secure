@@ -118,6 +118,10 @@ sudo apt-get -y install libmcrypt-dev
 
 ## Phpmyadmin
 
+## Proftpd
+
+## SSL
+
 ### Source
 
 https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-ubuntu-20-04
