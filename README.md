@@ -95,6 +95,13 @@ sudo apt install php7.4-fpm
 sudo apt install libapache2-mod-fcgid
 ``` 
 
+```
+sudo apt-get install curl
+sudo service apache2 restart
+sudo apt-get install php7.4-curl
+sudo service apache2 restart
+```
+
 ## Mariadb installation
 
 ## Phpmyadmin
