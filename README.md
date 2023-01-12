@@ -85,7 +85,7 @@ apt-get install binutils libreadline5 ssl-cert unhide.rb mailutils
 ```
 
 
-## Php 7.4-fpm
+## Php 7.4-fpm & others
 
 ```
 sudo apt install php7.4-fpm
@@ -101,6 +101,11 @@ sudo service apache2 restart
 sudo apt-get install php7.4-curl
 sudo service apache2 restart
 ```
+
+```
+apt-get install php7.4-mcrypt
+```
+
 
 ## Mariadb installation
 
