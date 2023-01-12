@@ -106,6 +106,13 @@ sudo service apache2 restart
 apt-get install php7.4-mcrypt
 ```
 
+```
+sudo apt-get -y install gcc make autoconf libc-dev pkg-config
+```
+
+```
+sudo apt-get -y install libmcrypt-dev
+```
 
 ## Mariadb installation
 
