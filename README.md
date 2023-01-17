@@ -122,9 +122,19 @@ sudo apt-get -y install libmcrypt-dev
 
 ## Apache2
 
-## BIND9
+## Bind9
 
-## SSL
+# suexec & suphp
+
+```
+sudo apt-get install apache2-suexec
+```
+
+```
+sudo apt-get install apache2-suexec-custom
+```
+
+## Ssl
 
 ### Source
 
