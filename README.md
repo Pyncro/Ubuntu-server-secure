@@ -38,30 +38,8 @@ donnez-leur les droits d'administration en utilisant `(chmod +x {nom du fichier}
 
 ## Linux firewall w/Fail2ban
 
-## Linux Firewall w/UFW
+## Linux Firewall w/iptables
 
-```
-apt install ufw 
-```
-
-```
-systemctl status ufw
-```
-
-```
-sudo ufw enable
-```
-
-```
-ufw default allow outgoing
-ufw default deny incoming
-```
-
-```
-ufw allow ssh
-ufw allow 80
-ufw allow 443
-```
 
 ## Linux firewall w/rkhunter
 
