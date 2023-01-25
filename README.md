@@ -41,6 +41,8 @@ donnez-leur les droits d'administration en utilisant `(chmod +x {nom du fichier}
 
 ## Linux firewall w/Fail2ban
 
+<img src= "https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/f2b.png" />
+
 ## Linux Firewall w/iptables
 
 
