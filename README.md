@@ -14,7 +14,7 @@ pour rendre cela possible, il vous suffit de :
 ## Linux Secured ssh login
 
 <img width="800" height="500" src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/srl.png" />
-<img src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/secured%20root%20login.pdf" />
+<img src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/srl.png" />
 
 
 Créer un nouveau utilisateur 
