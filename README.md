@@ -13,7 +13,7 @@ pour rendre cela possible, il vous suffit de :
 
 ## Linux Secured ssh login
 
-<img width="800" height="500" src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/srl.png" />
+
 <img src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/srl.png" />
 
 
@@ -25,6 +25,8 @@ PermiRootLogin no
 AllowUsers{tab}{nouveau utilisateur}
 
 ## Linux firewall w/Iptables
+
+<img src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/it.png" />
 
 Trouver une section dans votre répertoire *root* pour écrire ces deux scripts bash :
 
