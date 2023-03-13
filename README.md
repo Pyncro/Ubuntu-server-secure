@@ -125,4 +125,10 @@ https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-
 
 https://www.digitalocean.com/community/tutorials/how-to-use-rkhunter-to-guard-against-rootkits-on-an-ubuntu-vps
 
+https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-20-04
 
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-on-ubuntu-20-04-fr
+
+https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-ubuntu-20-04-fr
+
+https://askubuntu.com/questions/1319861/how-to-configure-apache-http-to-php-fpm-on-ubuntu-20-10
