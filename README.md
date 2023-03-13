@@ -172,7 +172,7 @@ sudo apt-get install dovecot-pop3d dovecot-imapd
 ## logwatch
 
 <div align="center">
-  <img src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/logwatch.png">
+  <img width="200" height="200" src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/logwatch.png">
 </div>
 
 ```
