@@ -107,7 +107,7 @@ sudo apt-get -y install libmcrypt-dev
 
 ## Apache2
 
-# suexec
+## suexec
 
 ```
 sudo apt-get install apache2-suexec
