@@ -101,7 +101,24 @@ sudo apt-get -y install libmcrypt-dev
 
 ## Mariadb installation
 
+<div align="center">
+  <img src="">
+</div>
+
+```
+sudo apt install mariadb-server
+sudo mysql_secure_installation
+```
+
 ## Phpmyadmin
+
+<div align="center">
+  <img src="">
+</div>
+
+```
+sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl
+
 
 ## Proftpd
 
@@ -116,6 +133,60 @@ sudo apt-get install apache2-suexec
 ```
 sudo apt-get install apache2-suexec-custom
 ```
+
+## postfix
+
+<div align="center">
+  <img src="">
+</div>
+
+sudo DEBIAN_PRIORITY=low apt install postfix
+
+
+## IMAP / POP3
+
+<div align="center">
+  <img src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/imappop.png">
+</div>
+
+```
+
+sudo apt-get updates
+sudo apt-get install dovecot-pop3d dovecot-imapd
+
+
+```
+## Monit
+
+<div align="center">
+  <img src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/monit.png">
+</div>
+
+## Munin
+
+<div align="center">
+  <img src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/munin.png">
+</div>
+
+
+
+## logwatch
+
+<div align="center">
+  <img src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/logwatch.png">
+</div>
+
+```
+apt-get install logwatch
+```
+
+## Webmin
+
+<div align="center">
+  <img src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/webmin.png">
+</div>
+
+Webmin utilise le port 10000 (par défaut)
 
 ## Ssl
 
