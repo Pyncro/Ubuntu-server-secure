@@ -5,7 +5,7 @@ Avant de commencer, il serait plus simple d'éditer le serveur ubuntu via ssh (p
 
 <div align=center>
     <img width="100" height="100" src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/apache.jpeg" />
-    <img width="100" height="70" src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/PhpMyAdmin.png" />
+    <img width="100" height="100" src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/php.png" />
     <img width="100" height="100" src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/mariadb.jpeg" />
     <img width="100" height="100" src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/maill.jpeg" />
     <img width="100" height="100" src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/monit.png" />
@@ -124,7 +124,7 @@ sudo mysql_secure_installation
 ## Phpmyadmin
 
 <div align="center">
-  <img src="">
+  <img src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/PhpMyAdmin.png">
 </div>
 
 ```
