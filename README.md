@@ -31,11 +31,13 @@ AllowUsers{tab}{nouveau utilisateur}
 Trouver une section dans votre répertoire *root* pour écrire ces deux scripts bash :
 
 [flush](https://github.com/Pyncro/Ubuntu-server-secure/blob/main/firewall%20scripts/iptable_flush.rtf "flush.sh")
-
+<img src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/flush.png">
 
 [iptables](https://github.com/Pyncro/Ubuntu-server-secure/blob/main/firewall%20scripts/iptable_rules.rtf "iptables.sh")
+<img src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/rules.png">
 
 donnez-leur les droits d'administration en utilisant `(chmod +x {nom du fichier})` et puis exécutez flush.sh ensuite iptables.sh en utilisant `(bash)` ou `(./)`
+
 
 
 
@@ -44,9 +46,6 @@ donnez-leur les droits d'administration en utilisant `(chmod +x {nom du fichier}
 <div align="center">
   <img src= "https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/f2b.png"/>
 </div>
-  
-## Linux Firewall w/iptables
-
 
 ## Linux firewall w/rkhunter
 
