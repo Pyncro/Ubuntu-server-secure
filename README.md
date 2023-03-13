@@ -3,6 +3,16 @@
 
 Avant de commencer, il serait plus simple d'éditer le serveur ubuntu via ssh (plus facile a copier/coller les texts).
 
+<div align=center>
+    <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+    <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+    <img width="100" height="100" src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/monit.png" />
+    <img width="100" height="100" src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/munin.png" />
+    <img width="100" height="100" src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/logwatch.png" />
+    <img width="100" height="100" src="https://github.com/Pyncro/Ubuntu-server-secure/blob/main/img/webmin.png">
+
+</div>
+
 
 pour rendre cela possible, il vous suffit de :
 
