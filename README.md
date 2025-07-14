@@ -20,8 +20,7 @@ pour rendre cela possible, il vous suffit de :
 
 1. connaître votre adresse ip `(ifconfig)`
 2. installer le client open-ssh `(sudo apt-get install openssh-client)`
-3. ouvrir le port ssh `(sudo ufw allow ssh)`
-4. ouvrir le port 22 `(sudo ufw allow 22)`
+3. Installer net-tools `apt-get install net-tools`
 
 ## Linux Secured ssh login
 
@@ -31,10 +30,10 @@ pour rendre cela possible, il vous suffit de :
 
 Créer un nouveau utilisateur 
 nano /etc/ssh/sshd_config
-Port 22 -> 2000 {choisissez un numéro à quatre chiffres}
+Port 22 -> XXXX {choisissez un numéro à quatre chiffres}
 
 PermiRootLogin no
-AllowUsers{tab}{nouveau utilisateur}
+AllowUsers    {tab}    {nouveau utilisateur}
 
 ## Linux firewall w/Iptables
 
